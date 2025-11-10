@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JwtAuthApi.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250310220737_InitialCreate")]
+    [Migration("20251110000234_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
