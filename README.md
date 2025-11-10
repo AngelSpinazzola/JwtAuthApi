@@ -1,6 +1,6 @@
 # API de Autenticación JWT con .NET 8
 
-Esta es una API de autenticación desarrollada en ASP.NET Core que utiliza JWT (JSON Web Tokens) + Contraseñas Hasheadas con Identity para la autenticación de usuarios. Incluye funcionalidades de registro, login y gestión de usuarios.
+API de autenticación desarrollada en ASP.NET Core que utiliza JWT (JSON Web Tokens) + Contraseñas Hasheadas con Identity para la autenticación de usuarios. Incluye funcionalidades de registro, login y gestión de usuarios.
 
 ## Tecnologías utilizadas
 - **ASP.NET Core Web API RESTful .NET 8**
